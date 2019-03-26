@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CANBOOKGRAM", "CANBOOKGRAM\", "{CD71CE11-387B-4668-A678-D29509C980A3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56282"
+		Debug.AspNetCompiler.PhysicalPath = "CANBOOKGRAM\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56282\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56282"
+		Release.AspNetCompiler.PhysicalPath = "CANBOOKGRAM\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56282\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56282"
+		SlnRelativePath = "CANBOOKGRAM\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD71CE11-387B-4668-A678-D29509C980A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD71CE11-387B-4668-A678-D29509C980A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BAEE0B-936F-4B69-9C11-39478B0C7B66}
+	EndGlobalSection
+EndGlobal
